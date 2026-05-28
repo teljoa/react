@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop Developer Pro",
+      "price": 1200,
+      "stock": 10,
+      "image": "https://placehold.co/300?text=Laptop"
+    },
+    {
+      "id": "2",
+      "name": "Wireless Headphones",
+      "price": 150,
+      "stock": 25,
+      "image": "https://placehold.co/300?text=Headphones"
+    },
+    {
+      "id": "3",
+      "name": "4K Monitor 27inch",
+      "price": 300,
+      "stock": 15,
+      "image": "https://placehold.co/300?text=Monitor"
+    },
+    {
+      "id": "4",
+      "name": "Mechanical Keyboard",
+      "price": 80,
+      "stock": 50,
+      "image": "https://placehold.co/300?text=Keyboard"
+    }
+  ],
+  "orders": [
+    {
+      "id": "7c50",
+      "product": [
+        {
+          "id": "1",
+          "name": "Laptop Developer Pro",
+          "price": 1200,
+          "stock": 10,
+          "image": "https://placehold.co/300?text=Laptop",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Wireless Headphones",
+          "price": 150,
+          "stock": 25,
+          "image": "https://placehold.co/300?text=Headphones",
+          "quantity": 1
+        }
+      ],
+      "total": 1350,
+      "date": "2026-05-22T17:25:16.725Z"
+    }
+  ]
+}
